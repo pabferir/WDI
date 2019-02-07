@@ -1,0 +1,67 @@
+body {
+	font-family: arial;
+	font-size: 10pt;
+	font-style: normal;	
+}
+
+table.layout {
+	border: 1px solid grey;
+	border-collapse: collapse;
+}
+
+td.layout {
+	padding: 10px;
+	background-color: white;
+}
+
+td.menu {
+	background-color: #eef2ee;
+	vertical-align: top;
+}
+
+td.title {
+	text-align: center;
+	width: 500px;
+}
+
+ul.a {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+ul.b {
+	list-style-type: square;
+}
+
+a:link {
+	text-decoration:none;
+}
+
+a:visited {
+	color: peru;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: red;
+}
+
+table {
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+
+td {
+	background-color: WhiteSmoke;
+	padding: 10px;
+}
+
+th {
+	background-color: grey;
+	color: white;
+	text-align: left;
+	padding: 5px;
+}
