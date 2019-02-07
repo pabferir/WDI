@@ -2,15 +2,32 @@ body {
 	background-color: #fff;
 }
 
-table {
-	border-collapse: collapse;
+.bg-table {
+	border: 0px solid white;
 	width: 100%;
 }
 
-th, td {
-	border: 1px solid black;
+.bg-table:th, .bg-table:td {
+	border: 0px solid black;
 	padding: 10px;
 }
+.leftCol {
+	width: 170px;
+}
+
+#products {
+	margin: 10px;
+}
+
+#products td,  #products th, #products tr{
+	padding: 10px;
+}
+
+#products th {
+	background-color: #00ffff;
+}
+
+#products tr:nth-child(even){background-color: gray;}
 
 h1 {
 	text-align: center;
