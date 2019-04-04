@@ -4,4 +4,4 @@ This repository contains the implementations for the lab sessions of the WDI mod
 ### What I learned
 - Create a website using HTML5.
 - Style and layout using CSS.
-- Handle forms data with PHP.
+- Handle data with PHP.
